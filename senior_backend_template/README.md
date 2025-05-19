@@ -5,7 +5,7 @@
 
 ---
 
-## 🔧 Tech Stack
+🔧 Tech Stack
 
 - **Backend:** Django + DRF | FastAPI + async SQLAlchemy
 - **Auth:** OAuth2, JWT, OpenID Connect
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧪 Testing
+ 🧪 Testing
 
 - Unit, integration, e2e tests
 - Testcontainers, mock services
@@ -28,7 +28,7 @@
 
 ---
 
-## 🏗️ Features
+🏗️ Features
 
 - ✅ Feature toggles (Unleash, LaunchDarkly)
 - 📦 Canary & Blue-Green Deployments
@@ -37,8 +37,7 @@
 - 📜 Auto-generated API Docs (Swagger / OpenAPI)
 
 ---
-
-## 📂 Folder Structure
+📂 Folder Structure
 
 ```
 .
@@ -55,7 +54,7 @@
 
 ---
 
-## ✨ Author
+
 
 Built with ❤️ by **Samara**  
-📫 Contact: [your_email@example.com] | GitHub: [your_github_url]
+📫 Contact: samarasavyrzan@gmail.com] | GitHub: [https://github.com/Samara576/SunnyKyrgyz]
